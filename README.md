@@ -5,7 +5,7 @@
 💻 Estudante de programação  
 🚀 Focado em desenvolvimento web  
 🎮 Gosto de jogos e tecnologia  
-
+https://rogeriobr2005-blip.github.io/landing-page-profissional/
 ---
 
 ## 🧠 Tecnologias que uso
