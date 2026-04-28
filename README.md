@@ -24,5 +24,3 @@ https://rogeriobr2005-blip.github.io/landing-page-profissional/
 ---
 
 ⭐ Sempre aprendendo e evoluindo!
-
-<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWl3Mjdkam0zbGFsendhaWo3Z3dsbGJkM3U3c2pmazFwYXR1cTgzOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/EZr27ZbJwmjE9PGyLN/giphy.gif" width="100%">
